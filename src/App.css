@@ -1,0 +1,27 @@
+
+header {
+  min-height: 350px;
+  background-size: cover;
+  background-position: center 400px;
+  min-width: 100%;
+  font-weight: 900;
+}
+.pixPic{
+  max-height: 200px;
+}
+
+.musicItem{
+  min-height: 180px;
+  background-color: aqua;
+}
+.itemPixa{
+  min-height: 180px;
+  background-color: hsla(136, 28%, 90%, 0.781);
+}
+.btnSearch{
+  border-radius: 20px;
+}
+.linkSong{
+  align-items: center;
+  display: grid;
+}
